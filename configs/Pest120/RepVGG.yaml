@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: RepVGG
+  NAME: RepVGG
+  NUM_CLASSES: 120

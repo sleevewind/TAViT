@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: biformer
+  NAME: biformer_small
+  NUM_CLASSES: 120

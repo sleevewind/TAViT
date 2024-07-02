@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: ENb1
+  NAME: ENb1
+  NUM_CLASSES: 2

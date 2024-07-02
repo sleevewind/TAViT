@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: cswin
+  NAME: CSWin_tiny_224
+  NUM_CLASSES: 120

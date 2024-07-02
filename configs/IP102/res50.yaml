@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: res50
+  NAME: res50
+  NUM_CLASSES: 102

@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: dualvit
+  NAME: dualvit_s
+  NUM_CLASSES: 120

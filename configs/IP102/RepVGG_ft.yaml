@@ -1,0 +1,11 @@
+MODEL:
+  TYPE: RepVGG
+  NAME: RepVGG_ft
+  NUM_CLASSES: 102
+  FT: True
+TRAIN:
+  EPOCHS: 150
+  WEIGHT_DECAY: 1e-8
+  BASE_LR: 2e-4
+  WARMUP_LR: 2e-4
+  MIN_LR: 2e-4

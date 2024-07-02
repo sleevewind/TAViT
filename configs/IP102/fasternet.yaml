@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: fasternet
+  NAME: fasternet_s
+  NUM_CLASSES: 102

@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: mpvit
+  NAME: mpvit_small
+  NUM_CLASSES: 120

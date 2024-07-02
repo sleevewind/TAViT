@@ -1,0 +1,4 @@
+MODEL:
+  TYPE: convnext
+  NAME: convnext_t
+  NUM_CLASSES: 2

@@ -1,0 +1,12 @@
+MODEL:
+  TYPE: TAViT
+  NAME: TAViT
+  DROP_PATH_RATE: 0.2
+  NUM_CLASSES: 1000
+  TAViT:
+    PATCH_SIZE: 4
+    EMBED_DIM: [96, 192, 384]
+    DEPTHS: [3, 3, 27]
+    NUM_HEADS: [3, 6, 12]
+    MLP_RATIO: 2.
+    LAYER_DIM: [48, 48, 48]
