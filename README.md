@@ -3,7 +3,7 @@
 TAViT: Token Attention-Based Vision Transformer for Insect Pest Classification
 
 ```bash
-cd TAViT_code
+cd TAViT
 ```
 
 ## Install
