@@ -55,6 +55,7 @@ pip install opencv-python==4.9.0.80 termcolor==2.4.0 yacs==0.1.8
 ### Pest120
 
 This dataset will be publicly available soon.
+
 The file structure should look like:
 
 ```bash
@@ -85,6 +86,7 @@ $ tree data
 ### IP102
 
 This dataset can be obtained at: [IP102-Dataset (kaggle.com)](https://www.kaggle.com/datasets/rtlmhjbn/ip02-dataset)
+
 The file structure should look like:
 
 ```bash
@@ -114,6 +116,7 @@ $ tree data
 ### CPB
 
 This dataset can be obtained at: [edsonbollis/Citrus-Pest-Benchmark: Citrus Pest Benchmark (github.com)](https://github.com/edsonbollis/Citrus-Pest-Benchmark)
+
 The file structure should look like:
 
 ```bash
